@@ -155,11 +155,3 @@ formulaire.addEventListener("submit", function (e) {
         return false
     }
 })
-
-// var fruits = ["banane", "kiwi", "pomme", "goyave", "mangue"]
-// for (let n = 0; n < fruits.length; n++) {
-//     console.log(fruits[n])
-//     if (fruits[n] == "pomme") {
-//         break
-//     }
-// }
